@@ -1,4 +1,4 @@
-# Edge Link Bus Tracker (Discord)
+# Discord Course Rep Feedback Tool
 
 This bot is written in PHP and allows students to submit anonymous feedback to their course representatives.
 The bot shows the users' course and year group when submitting feedback. The role colours for Course & Year Group are configurable from config.json  
